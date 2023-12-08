@@ -1,0 +1,125 @@
+body{
+    background-color: black;
+}
+div.fond{
+    text-align: left;
+}
+img.fond{
+    height: 60px;
+}
+h1{
+    color: white;
+    text-align: center;
+    margin-top: -50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: lighter;
+    color: rgb(168, 153, 153);
+}
+
+
+
+
+
+
+div.Accueil{
+    text-align: center;
+    margin-top: 100px;
+}
+a.Accueil{
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: none;
+    font-size: 30px;
+}
+a.Accueil:hover{
+    opacity: 0.5;
+    color: grey;
+}
+a.Accueil:active{
+    opacity: 0.3;
+}
+
+div.Parcours{
+    text-align: center;
+    margin-top: 20px;
+}
+a.Parcours{
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: none;
+    font-size: 30px;
+}
+a.Parcours:hover{
+    opacity: 0.5;
+    color: grey;
+}
+a.Parcours:active{
+    opacity: 0.3;
+}
+
+div.Centre{
+    text-align: center;
+    margin-top: 20px;
+}
+a.Centre{
+    color: white;
+    text-decoration: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+}
+a.Centre:hover{
+    opacity: 0.5;
+    color: grey;
+}
+a.Centre:active{
+    opacity: 0.3;
+}
+
+div.Contact{
+    text-align: center;
+    margin-top: 20px;
+}
+a.Contact{
+    color: white;
+    text-decoration: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+}
+a.Contact:hover{
+    opacity: 0.5;
+    color: grey;
+}
+a.Contact:active{
+    opacity: 0.3;
+}
+
+div.Traduire{
+    text-align: center;
+    margin-top: 80px;
+}
+button.Traduire{
+    background-color: gray;
+    color: black;
+    border: none;
+    height: 35px;
+    width: 80px;
+    border-radius: 8px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+
+section.soustitre{
+    margin-top: 9cm;
+}
+p.un{
+    color: white;
+    text-align: center;
+    font-size: 15px;
+}
+p.deux{
+    color: white;
+    font-size: 15px;
+    text-align: center;
+}

@@ -1,0 +1,110 @@
+body{
+    background-color: black;
+}
+div.fond{
+    text-align: left;
+}
+img.fond{
+    height: 60px;
+}
+h1{
+    color: white;
+    text-align: center;
+    margin-top: -50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: lighter;
+    color: rgb(168, 153, 153);
+}
+
+
+
+
+
+article.insta{
+    border: solid;
+    border-color: white;
+    max-width: 25%;
+    margin-top: 70px;
+    padding-top: 2%;
+    padding-bottom: 1%;
+    margin-left: 38%;
+}
+div.insta{
+    text-align: center;
+}
+a.insta{
+    color: white;
+    margin-left: 24%;
+    font-weight: bold;
+    font-size: 120%;
+}
+a.insta:hover{
+    opacity: 0.5;
+}
+a.insta:active{
+    opacity: 0.3;
+}
+
+article.gmail{
+    border: solid;
+    border-color: white;
+    max-width: 25%;
+    text-align: center;
+    margin-left: 38%;
+    margin-top: 32px;
+    padding-top: 2%;
+    padding-bottom: 1%;
+}
+img.gmail{
+    max-width: 65%;
+}
+a.gmail{
+    color: white;
+    font-weight: bold;
+}
+
+
+
+div.Traduire{
+    text-align: center;
+    margin-top: 60px;
+}
+button.Traduire{
+    background-color: gray;
+    color: black;
+    border: none;
+    height: 35px;
+    width: 80px;
+    border-radius: 8px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+button.Traduire:hover{
+    opacity: 0.4;
+}
+button.Traduire:active{
+    background-color: white;
+}
+
+
+
+
+
+button.retour{
+    margin-top: 120px;
+    margin-left: 20px;
+    border: none;
+    background-color: white;
+    height: 50px;
+    width: 90px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+    font-weight: lighter;
+    border-radius: 15px;
+}
+button.retour:hover{
+    opacity: 0.5;
+    background-color: gray;
+}
+button.retour:active{
+    opacity: 0.2;
+}

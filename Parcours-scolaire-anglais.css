@@ -1,0 +1,91 @@
+body{
+    background-color: black;
+}
+div.fond{
+    text-align: left;
+}
+img.fond{
+    height: 60px;
+}
+h1{
+    color: white;
+    text-align: center;
+    margin-top: -50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: lighter;
+    color: rgb(168, 153, 153);
+}
+
+
+
+
+
+article.encadré{
+    color: white;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: left;
+    border: solid;
+    width: 450px;
+    padding: 10px;
+    border-radius: 10px;
+    border-color: gray;
+    font-size: 120%;
+
+}
+article.encadré2{
+    color: white;
+    border: solid;
+    width: 450px;
+    border-color: gray;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 120%;
+}
+section{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+
+div.Traduire{
+    text-align: center;
+    margin-top: 60px;
+}
+button.Traduire{
+    background-color: gray;
+    color: black;
+    border: none;
+    height: 35px;
+    width: 80px;
+    border-radius: 8px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+button.Traduire:hover{
+    opacity: 0.4;
+}
+button.Traduire:active{
+    background-color: white;
+}
+
+
+
+button.retour{
+    margin-top: 200px;
+    margin-left: 20px;
+    border: none;
+    background-color: white;
+    height: 50px;
+    width: 90px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: lighter;
+    border-radius: 15px;
+}
+button.retour:hover{
+    opacity: 0.5;
+    background-color: gray;
+}
+button.retour:active{
+    opacity: 0.2;
+}
